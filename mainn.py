@@ -3,7 +3,7 @@ students = []
 pname = "STUDENT ANALYZER"
 
 print("\n================================")
-print(f"\t{pname}")
+print(f"\tWelcome to the {pname}")
 print("================================")
 print(f"\nWelcome! To the {pname}\n")
 
