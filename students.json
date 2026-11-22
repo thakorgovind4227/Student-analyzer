@@ -1,0 +1,54 @@
+[
+    {
+        "roll_number": 101,
+        "name": "Govind",
+        "age": 19,
+        "course": "BCA",
+        "semester": 6,
+        "python": 99,
+        "dbms": 99,
+        "computer": 99,
+        "total": 297,
+        "percentage": 99.0,
+        "result": "Excellent"
+    },
+    {
+        "roll_number": 102,
+        "name": "Govinff",
+        "age": 99,
+        "course": "BA",
+        "semester": 6,
+        "python": 99,
+        "dbms": 99,
+        "computer": 99,
+        "total": 297,
+        "percentage": 99.0,
+        "result": "Excellent"
+    },
+    {
+        "roll_number": 103,
+        "name": "Govind",
+        "age": 19,
+        "course": "BCA",
+        "semester": 6,
+        "python": 99,
+        "dbms": 88,
+        "computer": 99,
+        "total": 286,
+        "percentage": 95.33333333333333,
+        "result": "Excellent"
+    },
+    {
+        "roll_number": 104,
+        "name": "Annant",
+        "age": 19,
+        "course": "BCA",
+        "semester": 5,
+        "python": 99,
+        "dbms": 55,
+        "computer": 33,
+        "total": 187,
+        "percentage": 62.333333333333336,
+        "result": "Fail"
+    }
+]
